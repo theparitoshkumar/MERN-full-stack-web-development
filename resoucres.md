@@ -1,7 +1,29 @@
-### Sub marine Cable connections map
+### 1. Sub marine Cable connections map
 https://www.submarinecablemap.com/
 
-### Practice Typing
+### 2. Practice Typing
 https://www.keybr.com/
 
-###
+### 3. Code HTML CSS JS
+https://codepen.io/
+<br>
+Profile : https://codepen.io/theparitoshkumar
+
+### 4. Documentaions
+1. https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+2. https://devdocs.io/html/
+
+3. https://www.w3schools.com/html/
+
+### 5. Free bookshelf
+https://www.gutenberg.org/
+
+### 6. Old version of any website
+https://web.archive.org/
+
+### Unicode Table
+https://unicode-table.com/en/
+
+
+
