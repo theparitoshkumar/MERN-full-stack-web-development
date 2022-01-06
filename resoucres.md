@@ -22,8 +22,14 @@ https://www.gutenberg.org/
 ### 6. Old version of any website
 https://web.archive.org/
 
-### Unicode Table
+### 7. Unicode Table
 https://unicode-table.com/en/
+
+### 8. Backup Pictures for using on website or app
+https://photobucket.com/explore
+
+### 9. Edit Photos
+https://imageonline.co/
 
 
 
