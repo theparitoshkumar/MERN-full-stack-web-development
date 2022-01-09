@@ -11,3 +11,5 @@
 9. https://codepen.io/dilums/pen/YzrvrBy
 10. https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
 11. https://codepen.io/piyushpd/pen/gOYvZPG
+12. https://codepen.io/khadkamhn/pen/BNwxEa
+13. https://codepen.io/drehimself/pen/KdXwxR
