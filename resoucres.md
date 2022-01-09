@@ -44,6 +44,9 @@ https://colorhunt.co/
 ### 12. Color Keyword name with hexcode
 https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
+### 13. Pestisite Extension for visibl eboxes
+https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+
 
 
 
