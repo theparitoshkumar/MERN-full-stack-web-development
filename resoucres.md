@@ -47,6 +47,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 ### 13. Pestisite Extension for visibl eboxes
 https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
 
+### 14. Default CSS value
+https://www.w3schools.com/cssref/css_default_values.asp
 
 
 
