@@ -41,6 +41,9 @@ https://hashnode.com/
 ### 11. Color Pattle / Perfect Color combo
 https://colorhunt.co/
 
+### 12. Color Keyword name with hexcode
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
 
 
 
