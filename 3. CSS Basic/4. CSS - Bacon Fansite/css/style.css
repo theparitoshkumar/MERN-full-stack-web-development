@@ -1,0 +1,24 @@
+/****************************************TAG SELECTOR******************************************************/
+
+h1{
+	color:  red;
+	font-size: 200px;
+}
+
+
+/* Commented in CSS
+img{
+	background-color: red;
+}
+*/
+
+
+/********************************************CLASS SELECTOR**************************************************/
+
+.bacon{
+	background-color: green;
+}
+
+.broccoli{
+	background-color: red;
+}

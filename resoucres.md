@@ -50,5 +50,7 @@ https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkea
 ### 14. Default CSS value
 https://www.w3schools.com/cssref/css_default_values.asp
 
+### 15. Emojis
+https://emojipedia.org/
 
 
