@@ -53,4 +53,8 @@ https://www.w3schools.com/cssref/css_default_values.asp
 ### 15. Emojis
 https://emojipedia.org/
 
+### 16. FavIcon
+https://www.favicon.cc
+
+
 
