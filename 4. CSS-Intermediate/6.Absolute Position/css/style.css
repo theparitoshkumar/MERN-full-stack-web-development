@@ -1,0 +1,21 @@
+.container{
+	height: 400px;
+	width: 100%;
+	background-color: yellow;
+	position: relative;
+	
+}
+
+.burger{
+	height: 200px;
+	width: auto;
+	position: absolute;
+	right: 50px;
+}
+
+.ads{
+	height: 100px;
+	position: fixed;
+	top: 0px;
+	left: 30%;
+}
