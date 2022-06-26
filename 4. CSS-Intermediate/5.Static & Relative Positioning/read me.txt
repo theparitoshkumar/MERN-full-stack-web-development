@@ -1,0 +1,31 @@
+1. Content is everything.
+
+Inspite of block element take whoel width of screen and inline just take the space needed.
+
+But the height of the content will be the size of the font or the text.
+
+2. Order comes from code.
+the order of the display of the ocntent is determined by the code you written.
+
+3. Childern sit on parents.
+
+childern will sit on the sit of the parent like h1 tag inside  a div element
+
+We can use position property to position on the screen the element where we wanted to lay out instead of the default layout.
+
+Position has following types:
+- Static
+- Relative
+- Absolute
+- Fixed
+
+
+All HTML elements are static in potision by default.
+
+We have coordinate property like:
+- Top
+- Bottom
+- Left
+- Right
+
+Coordinate will change the relative position of the element to the given pixel in the given coordinate directions from the element were started in static postioning.
